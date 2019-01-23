@@ -13,6 +13,9 @@ while (countdown > 0) {
 return 'done'
 }
 function doWhileLoop(array) {
+  function incrementVariable() {
+  i = i + 1;
+}
   do {
     
   }
