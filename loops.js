@@ -19,6 +19,6 @@ function doWhileLoop(array) {
   do {
     
   }
-  while ()
+  while ( );
 return array
 }
