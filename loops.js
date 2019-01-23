@@ -21,4 +21,5 @@ function doWhileLoop(array) {
   }
   while {
 }
+return array
 }
